@@ -30,11 +30,11 @@ Debian like systems:
 
 Checkout
 --------
-Checkout latest streamcrab branch from github
+Checkout latest Tweetalytics branch from github
 
 
-    git clone https://github.com/iamShantanu101/Tweetalytics.git ./streamcrab
-    cd streamcrab
+    git clone https://github.com/iamShantanu101/Tweetalytics.git ./Tweetalytics
+    cd Tweetalytics
 
 
 Configure
@@ -157,7 +157,7 @@ for more options see
 
 Training and testing results
 ----------------------------
-see : https://github.com/cyhex/streamcrab/blob/master/docs/acurracy_tests.md
+see : https://github.com/iamShantanu101/Tweetalytics/blob/master/docs/acurracy_tests.md
 
 
 Production & deployment
