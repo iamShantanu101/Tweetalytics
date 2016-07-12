@@ -1,14 +1,9 @@
-Streamcrab
+Tweetalytics
 ==========
 
-Streamcrab is a realtime twitter sentiment analyzer
+Tweetalytics is a realtime twitter sentiment analyzer
 
-This is the second version of the tool, and it is rewritten completely from previous version
-(still available in legacy branch)
-
-Demo: http://www.streamcrab.com
-
-Changes from previous version
+Features
 -----------------------------
 
 - Supports MaxEnt and Bayes classifiers (defaults to MaxEnt)
@@ -38,7 +33,7 @@ Checkout
 Checkout latest streamcrab branch from github
 
 
-    git clone https://github.com/cyhex/streamcrab.git ./streamcrab
+    git clone https://github.com/iamShantanu101/Tweetalytics.git ./streamcrab
     cd streamcrab
 
 
