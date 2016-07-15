@@ -1,6 +1,6 @@
 from nltk.tree import _child_names
 
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 from multiprocessing import Process
 import time
