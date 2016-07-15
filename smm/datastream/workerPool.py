@@ -1,4 +1,4 @@
-__author__ = 'gx'
+__author__ = 'shantanu'
 import threading
 from smm.datastream.plugins.twitterworker import TwitterWorker
 
