@@ -1,7 +1,7 @@
 from unittest import TestCase
 from smm.classifier.textprocessing import TwitterMixin
 
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 class TestTwitterMixin(TestCase):
