@@ -1,4 +1,4 @@
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 """
 This is a list of notable and commonly used emoticons or textual portrayals of a writer's mood or facial expression in
