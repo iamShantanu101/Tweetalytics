@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # PYTHON_ARGCOMPLETE_OK
 
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 import argparse
@@ -10,6 +10,7 @@ from smm import models
 models.connect()
 
 print ''
+print '------------------'
 print 'Raw Training data:'
 print '------------------'
 print "Positive %d records" % models.TrainDataRaw.objects(polarity=1).count()
