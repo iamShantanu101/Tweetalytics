@@ -1,6 +1,6 @@
 from unittest import TestCase
 from smm.classifier import ngrams
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 class TestTrigrams(TestCase):
