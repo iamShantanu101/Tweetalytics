@@ -1,4 +1,4 @@
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 import time
 from multiprocessing import Queue, Event, Process
