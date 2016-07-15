@@ -5,7 +5,7 @@ from abstract import TestCaseDB
 from smm.datastream.plugins.twitterworker import TwitterWorker
 from smm.models import RawStreamQueue, SocketSession
 
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 class TestTwitterWorker(TestCaseDB):
 
