@@ -1,7 +1,7 @@
 from abstract import TestCaseDB
 from smm.models import ClassifiedStream
 import json
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 class TestClassifiedStream(TestCaseDB):
