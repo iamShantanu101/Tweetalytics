@@ -1,4 +1,4 @@
-__author__ = 'gx'
+__author__ = 'shantanu'
 import nltk
 nltk.download('stopwords')
 nltk.download('maxent_treebank_pos_tagger')
