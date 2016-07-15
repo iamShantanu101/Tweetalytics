@@ -3,7 +3,7 @@ from smm import models
 import nltk
 
 
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 
