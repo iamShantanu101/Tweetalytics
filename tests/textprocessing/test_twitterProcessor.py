@@ -1,6 +1,6 @@
 from unittest import TestCase
 from smm.classifier.textprocessing import TwitterProcessor
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 class TestStopStemmTwitterProcessor(TestCase):
