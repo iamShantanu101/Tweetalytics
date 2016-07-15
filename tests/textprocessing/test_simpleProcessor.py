@@ -1,6 +1,6 @@
 from unittest import TestCase
 from smm.classifier.textprocessing import SimpleProcessor
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 
 class TestSimpleProcessor(TestCase):
