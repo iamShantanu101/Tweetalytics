@@ -1,7 +1,7 @@
 from numpy.distutils.command.config import config
 from smm.models import SocketSession
 
-__author__ = 'gx'
+__author__ = 'shantanu'
 
 from flask import Flask, render_template, Response, request
 from smm import config
